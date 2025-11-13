@@ -7,14 +7,17 @@
 }
 
 body {
-    background-color: #f4f4f9;
-    color: #333;
+    background: linear-gradient(to right, #00bcd4, #8e44ad); 
+    color: #fff;
     line-height: 1.6;
     display: flex;
     text-align: center;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
+
+
  h1 {
     color: #333;
     font-size: 3rem;
